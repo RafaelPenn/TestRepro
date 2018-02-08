@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 yallha hapoel
 rafa rafa rafa line2
+=======
+yallha hapoel line1
+rafa rafa rafa
+safdsafdafa
+>>>>>>> 16dc14cd07cd159d336e65f6be831c0e2364ace4
